@@ -1,3 +1,3 @@
 # projeto-sistema-de-login
 
-Projeto simples de tela de login desenvolvido com HTML, CSS e PHP. O objetivo é demonstrar a integração entre front-end e back-end, incluindo validação básica de usuário e senha. Ideal para estudos iniciais de autenticação em aplicações web.
+Projeto de sistema de login desenvolvido por mim utilizando HTML, CSS, JavaScript, PHP e banco de dados. Criado com o objetivo de praticar conceitos de desenvolvimento web full stack, como validação de formulários, autenticação de usuários e integração com banco de dados.
